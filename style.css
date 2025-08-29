@@ -1,0 +1,40 @@
+/* Estilos gerais para o corpo da página */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0e6f2; /* Cor de fundo suave */
+    color: #333;
+    margin: 0;
+    padding: 20px;
+    line-height: 1.6;
+}
+
+/* Estilo para o título principal (h1) */
+h1 {
+    color: #8a2be2; /* Cor roxa vibrante */
+    text-align: center;
+    border-bottom: 2px solid #8a2be2;
+    padding-bottom: 10px;
+}
+
+/* Estilo para os subtítulos (h2, h3) */
+h2, h3 {
+    color: #6a5acd; /* Outro tom de roxo */
+    text-align: left;
+}
+
+/* Estilo para parágrafos */
+p {
+    font-size: 16px;
+}
+
+/* Estilo para a lista de doramas */
+ul {
+    list-style-type: square;
+    color: #555;
+    padding-left: 20px;
+}
+
+/* Estilo para os itens da lista */
+li {
+    margin-bottom: 5px;
+}
